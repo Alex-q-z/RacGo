@@ -1,2 +1,2 @@
 # uchicago-cs151-project
-UCHICAGO CMSC 15100 Final Project, Go
+This is the home of my UChicago CMSC 15100 Final Project Go
