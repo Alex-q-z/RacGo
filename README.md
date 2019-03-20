@@ -1,5 +1,5 @@
 # uchicago-cs151-project
-This is the home of my UChicago CMSC 15100 Final Project Go
+This is the home of my UChicago CMSC 15100 Final Project Go\
 The game is written and tested in the IDE DrRacket 7.0.
 
 
