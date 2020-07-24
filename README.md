@@ -1,4 +1,4 @@
-RacGo: A fully functional Go Game implemented with programming language Racket
+RacGo: a Go Game implemented with functional programming language Racket\
 You could run the game with the IDE DrRacket 7.0.
 
 # devlog
