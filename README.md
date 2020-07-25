@@ -8,5 +8,5 @@ You could run the game with the IDE DrRacket 7.0.
 
 # instructions
 Press "p" to pass/skip the current round.  
-Press "s" to save the game.  
-Press "l" to load a saved game.   
+Press "s" to save the game to a saving file.  
+Press "l" to load a saved game from a saving file.   
