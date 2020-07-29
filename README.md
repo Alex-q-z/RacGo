@@ -1,5 +1,5 @@
-RacGo: a Go Game implemented with functional programming language Racket\
-You could run the game with the IDE DrRacket 7.0.
+# RacGo: a Go Game implemented with functional programming language Racket\
+The original idea of this project came from CS 151 (Intro to CS) at UChicago. You could run the game with the IDE DrRacket 7.0.
 
 # devlog
 12/10/2018 3rd phase completed: implemented the algorithm that calculates final territory of each side\
